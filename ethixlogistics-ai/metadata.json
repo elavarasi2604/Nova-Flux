@@ -1,0 +1,8 @@
+
+{
+  "name": "EthixLogistics AI",
+  "description": "Ethical, Profitable, Route-Optimised Logistics Intelligence Platform using deterministic scoring and Gemini AI advisory for human-centric fulfillment.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
